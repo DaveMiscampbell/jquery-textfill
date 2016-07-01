@@ -1,0 +1,19 @@
+{
+  "name": "jquery-textfill",
+  "version": "1.0.0",
+  "description": "This jQuery plugin resizes text to make it fit into a container. The font size gets as big as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMiscampbell/jquery-textfill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaveMiscampbell/jquery-textfill/issues"
+  },
+  "homepage": "https://github.com/DaveMiscampbell/jquery-textfill#readme"
+}
